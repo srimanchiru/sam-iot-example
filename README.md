@@ -1,4 +1,6 @@
 # SAM IoT Example
+https://dzone.com/articles/using-aws-iot-minus-the-iot-for-serverless-async-event-systems 
+
 
 ## Installation
 
